@@ -1,4 +1,4 @@
-# [RADAR BOGOR]
+# RADAR BOGOR
 
 Selamat datang di repository organisasi kami! Di sini, kami berkolaborasi dalam berbagai proyek yang berkaitan dengan Aplikasi manajemen pengelolaan barang untuk Radar Bogor.
 
