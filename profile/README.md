@@ -38,6 +38,8 @@ git checkout -b nama-branch-anda
 
 > **Keterangan**: Nama branch harus jelas dan deskriptif, seperti `feature-tambah-login`, `bugfix-koreksi-tanggal`, dll.
 
+![image](https://assets-global.website-files.com/622642781cd7e96ac1f66807/62d0ef2b68ea1652c722e7a6_image-10.png)<h1 align="center">SewaIn</h1>
+
 ### 4. Pindah Branch
 
 Jika Anda ingin berpindah ke branch lain, gunakan perintah:
